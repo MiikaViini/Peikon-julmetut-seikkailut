@@ -1,9 +1,6 @@
 # Peikon julmetut seikkailut
 
-As i was studying game developing in Amiedu, this was our first group project.
-I did source code and operated with Unity, art came from 2 different people.
-That been said, i cant provide all files for Unity, but there is all C# files that 
-i created. Also i provide .zip so you can play it with your Windows machine.
+During my time studying game development at Amiedu, I participated in our first group project. For the project, I was responsible for writing the source code and working with Unity, while two other team members provided the art. Unfortunately, I am unable to provide all the Unity files, but I have included all the C# files that I created. Additionally, I have provided a .zip file so that you can play the game on your Windows machine.
 
 ![](https://github.com/MiikaViini/Peikon-julmetut-seikkailut/blob/main/peikko.gif)
 #
